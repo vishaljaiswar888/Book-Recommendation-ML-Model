@@ -1,5 +1,5 @@
 ## Book Recommendation ML Model
-- This is end-to-end Book Recommendation Machine Learning Model which show five very much similar books based on the one user selects from the list of books.
+- This is end-to-end Book Recommendation Machine Learning Model which shows five very much similar books based on the one user selects from the list of books.
 
 - In the background I had merged all the tags and keywords for every book and had created a single-single list for every books. Then I had used Counter Vectorizer, which creates a 3D vectors of all the lists and when we select any book it looks at it's vector and five nearest vectors to it. Then displays the name of the books as per their vectors.
 
